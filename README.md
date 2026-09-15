@@ -13,8 +13,9 @@ Program ini digunakan untuk melihat, merubah, menghapus, menambahkan data buku y
 4. **"elif"** berfungsi dalam menangani keputusan yang banyak pada pengambilan keputusan. Jenis *conditional statement* ini juga saya gunakan saat Pengguna memilih di daftar menu.
 5. **"else"** berfungsi dalam pengambilan keputusan jika *if* tidak terpenuhi atau terlaksana. Jenis *conditional statement* ini saya gunakan saat Pengguna memilih di daftar menu ketika Pengguna memasukkan angka yang tidak sesuai dengan yang disediakan.
 6. **"break"** berfungsi untuk menghentikan secara paksa program. Jenis *transfer statement* ini saya gunakan pada pemilihan "Keluar" di bagian daftar menu.
-7. **"print"** berfungsi untuk menampilkan intruksi yang kita berikan.
-8. **"input"** berfungsi untuk memasukkan data dari Pengguna.
+7. **"continue"** berfungsi untuk melewatkan intruksi setelahnya atau kembali ke intruksi awal. Jenis *transfer statement* ini saya gunakan pada pemilihan menghapus data penerbit di bagian daftar menu, ketika Pengguna belum menambahkan data penerbit.
+8. **"print"** berfungsi untuk menampilkan intruksi yang kita berikan.
+9. **"input"** berfungsi untuk memasukkan data dari Pengguna.
 
 ## Output
 ### Output Awal
